@@ -160,6 +160,7 @@ github.com/palantir/godel v2.16.0+incompatible h1:Fsr0bPIuGQhXCsyzbIigKMIHjRr8eZ
 github.com/palantir/godel v2.16.0+incompatible/go.mod h1:y5sjaV4I8yAOiKeuML5FxFHOpWvXCyPPj79/5PQLq0E=
 github.com/palantir/pkg v0.0.0-20190319222743-332184900c68 h1:J9X1LvxPXSrH7V9jgcVU00HzHAvcCoFZiRAOkjC8aiE=
 github.com/palantir/pkg v0.0.0-20190319222743-332184900c68/go.mod h1:jLbXCfQ4HRrT5RRj5JuKc1ucQeridBMyRCpmzRtUYMY=
+github.com/palantir/pkg v0.0.0-20190430223854-50eac0b01074/go.mod h1:jLbXCfQ4HRrT5RRj5JuKc1ucQeridBMyRCpmzRtUYMY=
 github.com/pelletier/go-buffruneio v0.2.0 h1:U4t4R6YkofJ5xHm3dJzuRpPZ0mr5MMCoAWooScCR7aA=
 github.com/pelletier/go-buffruneio v0.2.0/go.mod h1:JkE26KsDizTr40EUHkXVtNPvgGtbSNq5BcowyYOWdKo=
 github.com/pierrec/lz4 v2.0.5+incompatible h1:2xWsjqPFWcplujydGg4WmhC/6fZqK42wMM8aXeqhl0I=

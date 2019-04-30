@@ -30,7 +30,7 @@ require (
 	github.com/nwaples/rardecode v1.0.0 // indirect
 	github.com/olekukonko/tablewriter v0.0.1
 	github.com/palantir/godel v2.16.0+incompatible // indirect
-	github.com/palantir/pkg v0.0.0-20190319222743-332184900c68 // indirect
+	github.com/palantir/pkg v0.0.0-20190430223854-50eac0b01074 // indirect
 	github.com/pierrec/lz4 v2.0.5+incompatible // indirect
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/shirou/gopsutil v2.18.12+incompatible
